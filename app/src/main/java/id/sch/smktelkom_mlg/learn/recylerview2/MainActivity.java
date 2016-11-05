@@ -1,4 +1,4 @@
-package id.sch.smktelkom_mlg.learn.recylerview1;
+package id.sch.smktelkom_mlg.learn.recylerview2;
 
 import android.content.res.Resources;
 import android.content.res.TypedArray;

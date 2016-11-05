@@ -9,7 +9,7 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
-import id.sch.smktelkom_mlg.learn.recylerview1.R;
+import id.sch.smktelkom_mlg.learn.recylerview2.R;
 import model.Hotel;
 
 /**
